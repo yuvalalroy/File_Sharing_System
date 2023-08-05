@@ -1,7 +1,4 @@
-# Amit Paz 319003455
-# Yuval Alroy 315789461
 import os
-
 
 def pull_file(path, s, file):
     file_name = file.readline().strip().decode()
