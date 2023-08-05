@@ -1,5 +1,3 @@
-# Amit Paz 319003455
-# Yuval Alroy 315789461
 import os
 import random
 import socket
